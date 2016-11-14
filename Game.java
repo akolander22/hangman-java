@@ -3,7 +3,7 @@ public class Game {
   private String mAnswer;
   private String mHits;
   private String mMisses;
-
+  //hangma game
   public Game(String answer) {
     mAnswer = answer;
     mHits = "";
